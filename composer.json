@@ -1,5 +1,5 @@
 {
-    "name": "laravelup/laravelup",
+    "name": "laravelup/link-pool",
     "description": "Mysql Pool Redis Poll Laravel Lumen Swoole",
     "authors": [
         {
