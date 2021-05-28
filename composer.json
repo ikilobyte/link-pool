@@ -1,0 +1,19 @@
+{
+    "name": "laravelup/laravelup",
+    "description": "Mysql Pool Redis Poll Laravel Lumen Swoole",
+    "authors": [
+        {
+            "name": "laravelup",
+            "email": "laraveler@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "ext-swoole": "4.6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LinkPool\\": "src/"
+        }
+    }
+}
